@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dan",
+    "twit": "Hello Flutter, I'm Dan"
+  },
+  {
+    "name": "Mark",
+    "twit": "Hello Flutter, I'm Mark"
+  },
+  {
+    "name": "Elsa",
+    "twit": "Hello Flutter, I'm Elsa"
+  },
+  {
+    "name": "Anna",
+    "twit": "Hello Flutter, I'm Anna"
+  },
+  {
+    "name": "Olaf",
+    "twit": "Hello Flutter, I'm Olaf"
+  }
+]
