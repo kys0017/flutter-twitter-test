@@ -1,6 +1,6 @@
 # twitter_test_app
 
-A new Flutter project.
+리스트에 twit 추가하는 test
 
 ## Getting Started
 
