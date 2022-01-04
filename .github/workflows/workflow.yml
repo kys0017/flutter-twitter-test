@@ -20,16 +20,12 @@ jobs:
         # 1. change path which exist lib/main.dart
         working-directory: ./
       - run: |
-          # 2. change path to [existed lib/main.dart path]/build/web
           cd /build/web
           git init
-           # 3. change your email
           git config --global user.email kys0017@gmail.com
-          # 4. change your name
           git config --global user.name kys0017
           git status
-          # 5. change your repository
-          git remote add origin https://$@github.com/kys0017/flutter-twitter-test.git
+          git remote add origin https://github.com/kys0017/flutter-twitter-test.git
           git checkout -b gh-pages
           git add --all
           git commit -m "update"
