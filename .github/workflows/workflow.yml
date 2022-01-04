@@ -20,7 +20,7 @@ jobs:
         # 1. change path which exist lib/main.dart
         working-directory: ./
       - run: |
-          cd /build/web
+          cd build/web
           git init
           git config --global user.email kys0017@gmail.com
           git config --global user.name kys0017
